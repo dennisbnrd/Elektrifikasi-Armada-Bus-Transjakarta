@@ -3,6 +3,12 @@
 ### Deskripsi Proyek
 project ini bertujuan untuk menganalisis potensi, dampak, dan strategi elektrifikasi armada Transjakarta berbasis data penumpang, operasional, dan skenario pengurangan emisi. Studi difokuskan pada koridor prioritas sebagai langkah strategis mendukung transportasi publik yang ramah lingkungan dan efisien di Jakarta.
 
+Source:
+- [10.000 unit bus listrik pada tahun 2030](https://www.thejakartapost.com/news/2020/12/29/transjakarta-wants-10000-electric-buses-in-service-by-2030.html)
+- [Panduan Evaluasi Pilot Bus Listrik di Indonesia](https://itdp-indonesia.org/wp-content/uploads/2023/11/A4-6-copy-Cover-AC-230-isi-matt-100gr.pdf)
+- [ZERO EMISSION BUS CHARGING INSIGHTS WITH TRANSJAKARTA](https://cff-prod.s3.amazonaws.com/storage/files/7E8soeS5oOjeNscAR5fPHQThaOl9QFoLKXBr92sT.pdf)
+  
+
 ### Tujuan
 - Mengidentifikasi koridor Transjakarta yang paling optimal untuk elektrifikasi.
 - Melakukan estimasi pengurangan emisi CO₂ dan efisiensi biaya operasional.
@@ -29,6 +35,16 @@ Strategi prioritas elektrifikasi, kebutuhan infrastruktur charging, dan evaluasi
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebook
 - Tableau (untuk dashboard dan visualisasi interaktif)
+
+### Installation
+Follow these steps to set up and run the Hospital Information System on your local machine:
+#### 1. Requirements
+Python 3.6 or above must be installed
+#### 2. Clone or Download the Project
+```bash
+git clone https://github.com/dennisbnrd/Elektrifikasi-Armada-Bus-Transjakarta.git
+cd Elektrifikasi-Armada-Bus-Transjakarta
+```
 
 ### Hasil
 - Elektrifikasi dapat mengurangi emisi CO₂ hingga 1,5 juta ton/tahun (skenario optimis).
